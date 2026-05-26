@@ -46,9 +46,7 @@ Transforming ideas into elegant, responsive web experiences.
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="www.linkedin.com/in/chhaya-ameta-23262729a
-
-">LinkedIn</a> •
+<a href="www.linkedin.com/in/chhaya-ameta-23262729a">LinkedIn</a> •
 <a href="chhayaameta12@gmail.com">Email</a>
 </p>
 
